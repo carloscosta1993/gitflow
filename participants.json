@@ -4,4 +4,9 @@
         "email" : "ricardo.batista@olx.com",
         "departament" : "Space Cake Cars"
     }
+    {
+	"name" : "Carlos Costa",
+	"email" : "carlos.costa@olx.com",
+	"department" : "EU CARS"
+    }
 ]
